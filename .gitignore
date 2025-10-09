@@ -1,0 +1,5 @@
+# ignore testing_data
+testing_data/
+
+# ignore DATA folder
+DATA/
