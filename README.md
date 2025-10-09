@@ -1,4 +1,6 @@
-Welcome:) Here's some helpful startup info on FENNEC-25_26 git repo
+Welcome:)
+
+Here's some helpful startup info on FENNEC-25_26 git repo
 This repo contains each data science member's code for their respective question for fennec 2025-26
 Our machine learning data processing library fennec-ml (https://github.com/afdavisLETU/fennec-ml) holds our general purpose fennec data processing functions.
 
@@ -18,12 +20,12 @@ If on Mac:
 
 Folders:
 
-DATA - root data folder, git ignores this, it's the working directory for all data storage
-testing_data - a folder to hold test data for fennec-ml example. git also ignores this
-Micah - what Micah's working on
-Justin - What Justin's working on
-Wills - what... you get the point
-Luke -
+- DATA - root data folder, git ignores this, it's the working directory for all data storage
+- testing_data - a folder to hold test data for fennec-ml example. git also ignores this
+- Micah - what Micah's working on
+- Justin - What Justin's working on
+- Wills - what... you get the point
+- Luke -
 
 
 
