@@ -5,7 +5,7 @@ This repo contains each data science member's code for their respective question
 Our machine learning data processing library fennec-ml (https://github.com/afdavisLETU/fennec-ml) holds our general purpose fennec data processing functions.
 
 
-Necessary Libraries to run FENNEC 2025-2026 code (I'd recommend installing these in a venv):
+## Necessary Libraries to run FENNEC 2025-2026 code (I'd recommend installing these in a venv):
 - pytorch
 - tensorflow
 - keras
@@ -13,12 +13,12 @@ Necessary Libraries to run FENNEC 2025-2026 code (I'd recommend installing these
 - pandas
 - fennec-ml
 
-If on Mac:
+## If on Mac:
 - install apple metal architecture for tensorflow
 - use python 3.12 as interpreter in venv bc metal isn't supported yet in later python versions (as of 10/2/25)
 - helpful install guide here https://developer.apple.com/metal/tensorflow-plugin/
 
-Folders:
+## Folders:
 
 - DATA - root data folder, git ignores this, it's the working directory for all data storage
 - testing_data - a folder to hold test data for fennec-ml example. git also ignores this
