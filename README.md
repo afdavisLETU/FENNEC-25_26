@@ -37,7 +37,7 @@ fennec-ml - our machine learning library (https://github.com/afdavisLETU/fennec-
 
 ### Code Header Example:
 
-|# My Name
-|# 9-30-25 (date last edited)
-|# Script Name
-|# Quick Explanation/overview
+|# My Name  
+|# 9-30-25 (date last edited)  
+|# Script Name  
+|# Quick Explanation/overview  
