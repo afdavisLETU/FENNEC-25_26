@@ -1,1 +1,1 @@
-Initial Test for git push and pull commands
+Initial Test for git push and pull commands.
