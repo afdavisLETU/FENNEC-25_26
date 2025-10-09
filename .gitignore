@@ -3,6 +3,3 @@ testing_data/
 
 # ignore DATA folder
 DATA/
-
-# ignore .DS_Store
-.DS_Store
