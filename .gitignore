@@ -2,7 +2,13 @@
 testing_data/
 
 # ignore DATA folder
-DATA/
+data/
 
 # ignore .DS_Store
 .DS_Store
+
+# ignore saved models
+saved_models/
+
+# ignore config files
+.json

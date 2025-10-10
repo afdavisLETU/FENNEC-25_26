@@ -20,8 +20,9 @@ Our machine learning data processing library fennec-ml (https://github.com/afdav
 
 ### Folders:
 
-- DATA - root data folder, git ignores this, it's the working directory for all data storage
+- data - root data folder, git ignores this, it's the working directory for all data storage
 - testing_data - a folder to hold test data for fennec-ml example. git also ignores this
+- saved_models
 - Micah - what Micah's working on
 - Justin - What Justin's working on
 - Wills - what... you get the point
