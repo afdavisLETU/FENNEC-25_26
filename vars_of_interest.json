@@ -1,0 +1,6 @@
+{
+    "IMU_0":["GyrX", "GyrY", "GyrZ", "AccX", "AccY", "AccZ"],
+    "IMU_1":["GyrX", "GyrY", "GyrZ", "AccX", "AccY", "AccZ"],
+    "RCOU":["C1", "C2", "C6", "C8"],
+    "ATT":["DesYaw", "Yaw"]
+}
