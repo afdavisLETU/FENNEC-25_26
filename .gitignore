@@ -2,7 +2,7 @@
 testing_data/
 
 # ignore DATA folder
-data/
+DATA/
 
 # ignore .DS_Store
 .DS_Store
@@ -11,4 +11,7 @@ data/
 saved_models/
 
 # ignore config files
-.json
+*.json
+
+# ignore pycache files
+*.pyc
