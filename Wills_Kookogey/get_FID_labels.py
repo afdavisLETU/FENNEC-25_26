@@ -6,7 +6,7 @@ import json
 import glob
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
 
-# WIlls Kookogey
+# Wills Kookogey
 # 11/4/25
 # Reads all filenames in a folder and returns FID characterization labels
 def get_FID_labels(csv_dir):
@@ -23,11 +23,11 @@ def get_FID_labels(csv_dir):
     # the output labels list
     labels = []
 
-    # Regex patterns for reading 2024-2025 1D and 2D CG flight data files
-    patternL = r'^\d+G_(L).csv$'
-    patternR = r'^\d+G_(R).csv$'
-    patternLR = r'^\d+G_(LR).csv$'
-    patternNONE = r'^\d+G_(NONE).csv$'
+    # Regex patterns for reading 2024-2025 FID flight data files
+    patternL = r'^\d+[A-Za-z]_(L)\.csv$'
+    patternR = r'^\d+[A-Za-z]_(R)\.csv$'
+    patternLR = r'^\d+[A-Za-z]_(LR)\.csv$'
+    patternNONE = r'^\d+[A-Za-z]_(NONE)\.csv$'
 
     # --- CHECK FILEPATH ---
     if not os.path.isdir(csv_dir): # does savepath exist?
