@@ -12,3 +12,11 @@ saved_models/
 
 # ignore config files
 .json
+
+Justin_Hawk\FENNEC_3D_Code\raw_3D_data\
+
+Justin_Hawk\FENNEC_3D_Code\processed_data\
+
+Justin_Hawk\FENNEC_3D_Code\flight_removed_from_raw_data\
+
+Justin_Hawk\FENNEC_3D_Code\individual_testflight\
