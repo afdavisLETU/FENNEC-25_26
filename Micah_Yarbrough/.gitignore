@@ -1,0 +1,14 @@
+# ignore data
+*.xlsx
+
+# processed data
+*.csv
+
+# old work
+/PAST_WORK
+
+# saved_models
+/SAVED_MODELS
+
+# _pycache_
+/__pycache__

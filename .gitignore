@@ -12,3 +12,9 @@ saved_models/
 
 # ignore config files
 .json
+
+#ignore .venv
+.venv/
+
+#micah's venv
+.torchex/
