@@ -1,0 +1,22 @@
+{
+    "IMU_0": [
+        "GyrX",
+        "GyrY",
+        "GyrZ",
+        "AccX",
+        "AccY",
+        "AccZ"
+    ],
+    "RCOU": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+    ],
+    "ATT": [
+        "DesYaw",
+        "Yaw",
+        "DesRoll",
+        "Roll"
+    ]
+}

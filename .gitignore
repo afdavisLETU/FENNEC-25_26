@@ -1,8 +1,12 @@
 # ignore testing_data
 testing_data/
 
+DATA/
+
+FENNEC-25_26/Justin_Hawk/FENNEC_3D_Code/utils/
+
 # ignore DATA folder
-data/
+Justin_Hawk/DATA/
 
 # ignore .DS_Store
 .DS_Store
