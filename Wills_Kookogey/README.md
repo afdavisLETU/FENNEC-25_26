@@ -1,5 +1,5 @@
 hi guys.
-welcome to fennec
+welcome to fennec.
 if you've made it this far, congrats on learning something about git
 (or just doing what chat told you to, or mega congrats if you actually knew how to git prior to this)
 
