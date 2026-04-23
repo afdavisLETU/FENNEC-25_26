@@ -1,9 +1,6 @@
 hi guys
-
 welcome to fennec
-
 if you've made it this far, congrats on learning something about git
-
 (or just doing what chat told you to, or mega congrats if you actually knew how to git prior to this)
 
 this is the Fault Identification (FID) repository. I left a lot of my codes in here cause I wanted whoever's reading this to know how much
