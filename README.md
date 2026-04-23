@@ -7,7 +7,6 @@ Our machine learning data processing library fennec-ml (https://github.com/afdav
 
 ### Necessary Libraries to Run FENNEC 2025-2026 Code (I'd recommend installing these in a venv):
 - pytorch
-- tensorflow
 - keras
 - ipykernel (to use jupyter notebook codes)
 - pandas
@@ -20,13 +19,10 @@ Our machine learning data processing library fennec-ml (https://github.com/afdav
 
 ### Folders:
 
-- data - root data folder, git ignores this, it's the working directory for all data storage
-- testing_data - a folder to hold test data for fennec-ml example. git also ignores this
-- saved_models
 - Micah - what Micah's working on
 - Justin - What Justin's working on
 - Wills - what... you get the point
-- Luke -
+- Luke - team lead stuff... he started on data stuff then got stuck tuning crush the rest of the year
 
 
 
