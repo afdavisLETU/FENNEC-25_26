@@ -6,7 +6,11 @@ DATA/
 FENNEC-25_26/Justin_Hawk/FENNEC_3D_Code/utils/
 
 # ignore DATA folder
+<<<<<<< HEAD
 Justin_Hawk/DATA/
+=======
+DATA/
+>>>>>>> Wills
 
 # ignore .DS_Store
 .DS_Store
@@ -15,6 +19,7 @@ Justin_Hawk/DATA/
 saved_models/
 
 # ignore config files
+<<<<<<< HEAD
 .json
 
 #ignore .venv
@@ -22,3 +27,9 @@ saved_models/
 
 #micah's venv
 .torchex/
+=======
+*.json
+
+# ignore pycache files
+*.pyc
+>>>>>>> Wills
