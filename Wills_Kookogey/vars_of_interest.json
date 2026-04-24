@@ -1,0 +1,6 @@
+{
+
+    "IMU_0":["GyrX", "GyrY", "GyrZ", "AccX", "AccY", "AccZ"],
+    "ATT":["DesRoll", "Roll", "DesPitch", "Pitch", "DesYaw", "Yaw"],
+    "RCIN":["C6", "C7"]
+}
