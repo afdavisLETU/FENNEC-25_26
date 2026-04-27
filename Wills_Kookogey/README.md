@@ -30,7 +30,7 @@ code up and running on your machine
 
 - get jupyter notebooks running (and learn the keyboard shortcuts to run cells, that'll save your time and wrists)
 - install all the dependencies listed in the README at the root folder FENNEC-25_26
-- download the DATA folder from onedrive, and move it into the Wills_Kookogey folder.
+- download the DATA folder from onedrive, and move it into the Wills_Kookogey folder. (DATA folder is in FENNEC onedrive under FENNEC2025-2026/Data Science Team/Wills_Kookogey)
 - (the FID_utils.py file has some helpful data processing functions which these jupyter notebooks need to run)
 
 if something is broken, ask chat or text me (615-864-5991) or email me (willskookogey@gmail.com)
