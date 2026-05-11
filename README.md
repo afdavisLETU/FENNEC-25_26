@@ -2,7 +2,9 @@ Welcome:)
 
 Here's some helpful startup info on FENNEC-25_26 git repo
 This repo contains each data science member's code for their respective question for fennec 2025-26
-Our machine learning data processing library fennec-ml (https://github.com/afdavisLETU/fennec-ml) holds our general purpose fennec data processing functions.
+Our machine learning data processing library fennec-ml (https://github.com/afdavisLETU/fennec-ml) holds some general purpose fennec data processing functions.
+
+To reproduce any team member's models, first clone the git repo, then download their respective data set from the FENNEC onedrive, and put it in the folder under their name in the cloned repo. Then install the necessary libraries and run their code. Each team member should have more details in a readme under their name.
 
 
 ### Necessary Libraries to Run FENNEC 2025-2026 Code (I'd recommend installing these in a venv):
